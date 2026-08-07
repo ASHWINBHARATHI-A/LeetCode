@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -36,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
