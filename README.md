@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
