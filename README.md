@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
@@ -56,6 +57,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Binary Search
 |  |
