@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
