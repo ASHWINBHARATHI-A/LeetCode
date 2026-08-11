@@ -16,25 +16,30 @@
 | [0043-multiply-strings](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0043-multiply-strings) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
 ## String
 |  |
 | ------- |
@@ -96,4 +101,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
