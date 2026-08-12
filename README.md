@@ -10,6 +10,7 @@
 | [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0043-multiply-strings) |
+| [1929-concatenation-of-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Brainteaser
 |  |
