@@ -7,6 +7,7 @@
 | ------- |
 | [0136-single-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
@@ -23,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
@@ -117,4 +119,16 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0231-power-of-two) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
