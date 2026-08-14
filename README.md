@@ -20,6 +20,7 @@
 | [0231-power-of-two](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
+| [1492-the-kth-factor-of-n](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
