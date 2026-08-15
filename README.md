@@ -18,6 +18,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1492-the-kth-factor-of-n) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Brainteaser
@@ -143,6 +145,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 ## Prime Factorization
 |  |
