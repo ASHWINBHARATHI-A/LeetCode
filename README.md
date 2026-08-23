@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0258-add-digits) |
@@ -137,6 +138,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0231-power-of-two) |
 ## Breadth-First Search
 |  |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
