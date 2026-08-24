@@ -9,6 +9,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
@@ -90,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -181,4 +185,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
