@@ -22,6 +22,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
@@ -91,6 +92,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
