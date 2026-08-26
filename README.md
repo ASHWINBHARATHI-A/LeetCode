@@ -9,6 +9,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
@@ -100,11 +101,13 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -122,6 +126,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -130,6 +135,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
 | [2029-stone-game-ix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -162,6 +168,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -182,6 +189,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
