@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0322-coin-change) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0043-multiply-strings) |
+| [0179-largest-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0179-largest-number) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -108,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -184,6 +187,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0179-largest-number) |
 | [2029-stone-game-ix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
