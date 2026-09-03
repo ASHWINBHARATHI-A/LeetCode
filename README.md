@@ -20,6 +20,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/2029-stone-game-ix) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/2029-stone-game-ix) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
