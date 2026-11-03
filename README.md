@@ -16,6 +16,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Brainteaser
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0867-transpose-matrix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0867-transpose-matrix) |
 ## Newton's Method
 |  |
 | ------- |
