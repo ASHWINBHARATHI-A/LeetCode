@@ -71,6 +71,7 @@
 | [0043-multiply-strings](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0344-reverse-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
