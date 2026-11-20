@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -103,6 +104,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -111,6 +113,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0347-top-k-frequent-elements) |
