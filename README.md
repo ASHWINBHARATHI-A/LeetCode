@@ -23,6 +23,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/2029-stone-game-ix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -73,6 +74,7 @@
 | [0179-largest-number](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0344-reverse-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3894-traffic-signal-color](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -215,6 +217,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Linked List
 |  |
 | ------- |
@@ -228,4 +231,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ASHWINBHARATHI-A/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
